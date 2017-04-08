@@ -17,5 +17,3 @@ else{
 	return "Invalid input"
 }
 }
-
-console.log(fizzBuzz(63))
