@@ -18,5 +18,3 @@ while(numbers.length){
 return primes
 }
 }
-
-console.log(getPrimes(1));
