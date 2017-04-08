@@ -1,4 +1,4 @@
-var prime = require("../getPrime.js");
+var prime = require("../primeme.js");
 describe("generates prime numbers from 0 to n ", function (){  
 
 	describe("no prime number is obtainable", function() {
