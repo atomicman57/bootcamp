@@ -47,6 +47,3 @@ function aritGeo(arr){
  } 
 }
 
-
-
-console.log(aritGeo([1]));
